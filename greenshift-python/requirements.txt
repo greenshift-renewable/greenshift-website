@@ -1,2 +1,0 @@
-# This project uses only Python's built-in libraries, so there is nothing to install.
-# This file exists only because some hosts (e.g. Render) expect one to be present.
